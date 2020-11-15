@@ -26,7 +26,8 @@
   {
   "name": "СССРvsEMPIRE",
   "allyCode": "164675648",
-  "discordId": "300666927456714753"
+  "discordId": "300666927456714753",
+  "userIcon": ":flag_us:"
   },
   {
   "name": "in",
@@ -54,17 +55,20 @@
   {
   "name": "Mal Adjusted",
   "allyCode": "673441235",
-  "discordId": "482157326036369408"
+  "discordId": "482157326036369408",
+  "userIcon": ":flag_ca:"
   },
   {
   "name": "Remysterio",
   "allyCode": "365864888",
-  "discordId": "404395820213993484"
+  "discordId": "404395820213993484",
+  "userIcon": ":flag_fr:"
   },
   {
   "name": "Scob",
   "allyCode": "426113143",
-  "discordId": "526770376282341386"
+  "discordId": "526770376282341386",
+  "userIcon": ":flag_ru:" 
   },
   {
   "name": "Felipe Massari",
@@ -74,42 +78,50 @@
   {
   "name": "Georgios",
   "allyCode": "133669412",
-  "discordId": "404709151218860035"
+  "discordId": "404709151218860035",
+  "userIcon": ":flag_gr:"
   },
   {
   "name": "Relix",
   "allyCode": "624568193",
-  "discordId": "401389833723052034"
+  "discordId": "401389833723052034",
+  "userIcon": ":flag_us:"
   },
   {
   "name": "Sledge",
   "allyCode": "838287163",
-  "discordId": "248221290521952258"
+  "discordId": "248221290521952258",
+  "userIcon": ":flag_de:"  
   },
   {
   "name": "Syn",
   "allyCode": "171686785",
-  "discordId": "214294456516608001"
+  "discordId": "214294456516608001",
+  "userIcon": ":flag_ca:"  
   },
   {
   "name": "АБТ Unikue",
   "allyCode": "645796743",
-  "discordId": "568636362639802378"
+  "discordId": "568636362639802378",
+  "userIcon": ":flag_ru:" 
   },
   {
   "name": "BlackBart",
   "allyCode": "971433313",
-  "discordId": "545805408284049419"
+  "discordId": "545805408284049419",
+  "userIcon": ":flag_us:"
   },
   {
   "name": "TheRealNoLie",
   "allyCode": "346753534",
-  "discordId": "675402875777581078"
+  "discordId": "675402875777581078",
+  "userIcon": ":flag_gb:"
   },
   {
   "name": "刑事コロンボ",
   "allyCode": "674376816",
-  "discordId": "432416511110545418"
+  "discordId": "432416511110545418",
+  "userIcon": ":flag_jp:"
   },
   {
   "name": "Schniggi",
@@ -119,7 +131,8 @@
   {
   "name": "Exar Kun",
   "allyCode": "521973498",
-  "discordId": "546141181570973706"
+  "discordId": "546141181570973706",
+  "userIcon": ":flag_fr:" 
   },
   {
   "name": "Makor",
@@ -140,7 +153,8 @@
   {
   "name": "Stripe",
   "allyCode": "996367986",
-  "discordId": "516357246930780172"
+  "discordId": "516357246930780172",
+  "userIcon": ":flag_us:" 
   },
   {
   "name": "Guppi2006",
