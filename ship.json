@@ -98,6 +98,13 @@
   "userIcon": ":flag_us: "
   },
   {
+  "name": "Stripe",
+  "allyCode": "996367986",
+  "tagIdOnDrop": "516357246930780172",
+  "tagIdOnClimb": ":arrow_up: ",
+  "userIcon": ":flag_us: " 
+  },
+  {
   "name": "TheRealNoLie",
   "allyCode": "346753534",
   "tagIdOnDrop": "675402875777581078",
@@ -182,13 +189,6 @@
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
   "userIcon": ":skull: "  
-  },
-  {
-  "name": "Stripe",
-  "allyCode": "996367986",
-  "tagIdOnDrop": "516357246930780172",
-  "tagIdOnClimb": ":arrow_up: ",
-  "userIcon": ":flag_us: " 
   },
   {
   "name": "Guppi2006",
