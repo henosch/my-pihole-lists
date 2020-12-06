@@ -121,7 +121,7 @@
   {
   "name": "Makor",
   "allyCode": "875711567",
-  "tagIdOnDrop": "599829652533411842"
+  "tagIdOnDrop": "599829652533411842",
   "tagIdOnClimb": "",
   "skip": true
   },
@@ -129,7 +129,7 @@
   "name": "Hunta",
   "allyCode": "756443242",
   "tagIdOnDrop": "414535622825476096",
-  "userIcon": ":flag_ua: "
+  "userIcon": ":flag_ua: ",
   "tagIdOnClimb": "",
   "skip": true
   },
