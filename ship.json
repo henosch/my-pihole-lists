@@ -141,6 +141,14 @@
   "skip": true
   },
   {
+  "name": "Мария",
+  "allyCode": "445523751",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":skull: ",
+  "skip": true
+  },
+  {
   "name": "in",
   "allyCode": "343842698",
   "tagIdOnDrop": "",
@@ -174,14 +182,6 @@
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
   "userIcon": ":skull: "  
-  },
-  {
-  "name": "Мария",
-  "allyCode": "445523751",
-  "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
-  "userIcon": ":skull: ",
-  "skip": true
   },
   {
   "name": "PHQ2",
