@@ -83,7 +83,8 @@
   {
   "name": "Starface",
   "allyCode": "181583267",
-  "tagIdOnDrop": ":skull: "
+  "tagIdOnDrop": "", 
+  "userIcon": ":skull: "
   },
   {
   "name": "xmarine",
@@ -133,7 +134,8 @@
   {
   "name": "Lo'rry",
   "allyCode": "322588773",
-  "tagIdOnDrop": ":skull: "
+  "tagIdOnDrop": "", 
+  "userIcon": ":skull: "
   }, 
   {
   "name": "bigburny",
