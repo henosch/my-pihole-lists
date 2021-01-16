@@ -11,14 +11,16 @@
   "allyCode": "652346565",
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
-  "userIcon": ":man: Friend "
+  "userIcon": ":man: Friend ", 
+   "skip": true
   },
   {
   "name": "Rossi Schniggi",
   "allyCode": "267287257",
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
-  "userIcon": ":man: Friend "
+  "userIcon": ":man: Friend ", 
+   "skip": true
   },
   {
   "name": "Mal Adjusted",
