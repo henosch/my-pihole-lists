@@ -58,16 +58,16 @@
   "userIcon": ":flag_fr: " 
   },
   {
-  "name": "СССРvsEMPIRE",
-  "allyCode": "164675648",
-  "tagIdOnDrop": "300666927456714753",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_us: "
-  },
-  {
   "name": "Scob",
   "allyCode": "426113143",
   "tagIdOnDrop": "526770376282341386",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ru: " 
+  },
+  {
+  "name": "АБТ Unikue",
+  "allyCode": "645796743",
+  "tagIdOnDrop": "568636362639802378",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ru: " 
   },
@@ -86,13 +86,6 @@
   "userIcon": ":flag_us: "
   },
   {
-  "name": "АБТ Unikue",
-  "allyCode": "645796743",
-  "tagIdOnDrop": "568636362639802378",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_ru: " 
-  },
-  {
   "name": "BlackBart",
   "allyCode": "971433313",
   "tagIdOnDrop": "545805408284049419",
@@ -105,6 +98,13 @@
   "tagIdOnDrop": "516357246930780172",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: " 
+  },
+  {
+  "name": "СССРvsEMPIRE",
+  "allyCode": "164675648",
+  "tagIdOnDrop": "300666927456714753",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
   },
   {
   "name": "TheRealNoLie",
