@@ -6,6 +6,13 @@
   "tagIdOnClimb": "",
   "userIcon": ":flag_de: "
   },
+ {
+  "name": "Sledge",
+  "allyCode": "838287163",
+  "tagIdOnDrop": "248221290521952258",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_de: "  
+  },
   {
   "name": "Schniggi",
   "allyCode": "652346565",
@@ -70,13 +77,6 @@
   "tagIdOnDrop": "401389833723052034",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
-  },
-  {
-  "name": "Sledge",
-  "allyCode": "838287163",
-  "tagIdOnDrop": "248221290521952258",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_de: "  
   },
   {
   "name": "Syn",
