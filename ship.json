@@ -128,6 +128,20 @@
   "userIcon": ":flag_fr: " 
   },
   {
+  "name": "Lee Texs",
+  "allyCode": "985426271",
+  "tagIdOnDrop": "798195889926963210",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_br: "
+  },
+  {
+  "name": "Miki",
+  "allyCode": "163193731",
+  "tagIdOnDrop": "460077862951714827",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_rs: "  
+  },
+  {
   "name": "Makor",
   "allyCode": "875711567",
   "tagIdOnDrop": "599829652533411842",
@@ -268,20 +282,6 @@
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
   "userIcon": ":ghost: "  
-  },
-  {
-  "name": "Lee Texs",
-  "allyCode": "985426271",
-  "tagIdOnDrop": "798195889926963210",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_br: "
-  },
-  {
-  "name": "Miki",
-  "allyCode": "163193731",
-  "tagIdOnDrop": "460077862951714827",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_rs: "  
   },
  {
   "name": "Bahnshie",
