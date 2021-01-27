@@ -37,6 +37,13 @@
   "userIcon": ":flag_ca: "
   },
   {
+  "name": "Syn",
+  "allyCode": "171686785",
+  "tagIdOnDrop": "214294456516608001",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ca: "  
+  },
+  {
   "name": "Remysterio",
   "allyCode": "365864888",
   "tagIdOnDrop": "404395820213993484",
@@ -77,13 +84,6 @@
   "tagIdOnDrop": "401389833723052034",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
-  },
-  {
-  "name": "Syn",
-  "allyCode": "171686785",
-  "tagIdOnDrop": "214294456516608001",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_ca: "  
   },
   {
   "name": "АБТ Unikue",
