@@ -72,13 +72,6 @@
   "userIcon": ":flag_ru: " 
   },
   {
-  "name": "Felipe Massari",
-  "allyCode": "768967572",
-  "tagIdOnDrop": "260068768577880068",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_br: "
-  },
-  {
   "name": "Georgios",
   "allyCode": "133669412",
   "tagIdOnDrop": "404709151218860035",
@@ -131,6 +124,13 @@
   "name": "Lee Texs",
   "allyCode": "985426271",
   "tagIdOnDrop": "798195889926963210",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_br: "
+  },
+  {
+  "name": "Felipe Massari",
+  "allyCode": "768967572",
+  "tagIdOnDrop": "260068768577880068",
   "tagIdOnClimb": "",
   "userIcon": ":flag_br: "
   },
