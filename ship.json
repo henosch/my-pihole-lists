@@ -107,6 +107,13 @@
   "userIcon": ":flag_us: "
   },
   {
+  "name": "Savage Oprah",
+  "allyCode": "789126851",
+  "tagIdOnDrop": "446066727361445900",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "  
+  },
+  {
   "name": "TheRealNoLie",
   "allyCode": "346753534",
   "tagIdOnDrop": "675402875777581078",
@@ -168,7 +175,7 @@
   "name": "in",
   "allyCode": "343842698",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "", 
   "userIcon": ":ghost: "
   },
   {
@@ -224,14 +231,14 @@
   "name": "Guppi2006",
   "allyCode": "549449114",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":ghost: " 
   },
   {
   "name": "devaiso",
   "allyCode": "827848924",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":ghost: "  
   },
   {
@@ -287,14 +294,14 @@
   "name": "Bahnshie",
   "allyCode": "112786687",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":fire: "  
   },
   {
   "name": "Trey",
   "allyCode": "687973621",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":ghost: "  
   },
   {
@@ -340,13 +347,6 @@
   "userIcon": ":ghost: "  
   },
   {
-  "name": "Savage Oprah",
-  "allyCode": "789126851",
-  "tagIdOnDrop": "446066727361445900",
-  "tagIdOnClimb": "",
-  "userIcon": ":flag_us: "  
-  },
-  {
   "name": "IIIIII",
   "allyCode": "794986426",
   "tagIdOnDrop": "",
@@ -371,7 +371,7 @@
   "name": "Erqe",
   "allyCode": "556237432",
   "tagIdOnDrop": "",
-  "tagIdOnClimb": "",
+  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":ghost: "
   }
 ]
