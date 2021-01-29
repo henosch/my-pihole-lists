@@ -135,7 +135,8 @@
   "name": "GeneralJelpo",
   "allyCode": "131395178",
   "userIcon": "", 
-  "tagIdOnDrop": ""
+  "tagIdOnDrop": "", 
+  "skip": true
   },
   {
   "name": "Дарт Spriteus",
