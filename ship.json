@@ -172,6 +172,34 @@
   "skip": true
   },
   {
+  "name": "Guppi2006",
+  "allyCode": "549449114",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb" : "&804783579158544435",
+  "userIcon": ":ghost: " 
+  },
+  {
+  "name": "devaiso",
+  "allyCode": "827848924",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb" : "&804783579158544435",
+  "userIcon": ":ghost: "  
+  },
+  {
+  "name": "Bahnshie",
+  "allyCode": "112786687",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb" : "&804783579158544435",
+  "userIcon": ":fire: "  
+  },
+  {
+  "name": "Trey",
+  "allyCode": "687973621",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb" : "&804783579158544435",
+  "userIcon": ":ghost: "  
+  },
+  {
   "name": "in",
   "allyCode": "343842698",
   "tagIdOnDrop": "",
@@ -228,20 +256,6 @@
   "userIcon": ":ghost: "  
   },
   {
-  "name": "Guppi2006",
-  "allyCode": "549449114",
-  "tagIdOnDrop": "",
-  "tagIdOnClimb" : "&804783579158544435",
-  "userIcon": ":ghost: " 
-  },
-  {
-  "name": "devaiso",
-  "allyCode": "827848924",
-  "tagIdOnDrop": "",
-  "tagIdOnClimb" : "&804783579158544435",
-  "userIcon": ":ghost: "  
-  },
-  {
   "name": "BB311",
   "allyCode": "289882873",
   "tagIdOnDrop": "",
@@ -288,20 +302,6 @@
   "allyCode": "514859867",
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
-  "userIcon": ":ghost: "  
-  },
-  {
-  "name": "Bahnshie",
-  "allyCode": "112786687",
-  "tagIdOnDrop": "",
-  "tagIdOnClimb" : "&804783579158544435",
-  "userIcon": ":fire: "  
-  },
-  {
-  "name": "Trey",
-  "allyCode": "687973621",
-  "tagIdOnDrop": "",
-  "tagIdOnClimb" : "&804783579158544435",
   "userIcon": ":ghost: "  
   },
   {
