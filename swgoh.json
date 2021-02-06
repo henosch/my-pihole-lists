@@ -93,7 +93,8 @@
   "name": "mormike",
   "allyCode": "765425764",
   "userIcon": "<:enemy:804828786801246218>", 
-  "tagIdOnDrop": ""
+  "tagIdOnDrop": "", 
+  "skip":  true
   },
   {
   "name": "Cayde 6",
@@ -298,7 +299,8 @@
   "name": "Erratic",
   "allyCode": "376726816",
   "userIcon": "<:enemy:804828786801246218>", 
-  "tagIdOnDrop": ""
+  "tagIdOnDrop": "", 
+  "skip":  true
   }, 
   {
   "name": "opi",
