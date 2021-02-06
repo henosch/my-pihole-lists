@@ -57,7 +57,8 @@
   "name": "Maldann",
   "allyCode": "539181897",
   "userIcon": "<:enemy:804828786801246218>", 
-  "tagIdOnDrop": ""
+  "tagIdOnDrop": "", 
+  "skip":  true
   },
   {
   "name": "AhndoX",
