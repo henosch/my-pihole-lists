@@ -140,7 +140,8 @@
   "allyCode": "768967572",
   "tagIdOnDrop": "260068768577880068",
   "tagIdOnClimb": "",
-  "userIcon": ":flag_br: "
+  "userIcon": ":flag_br: ", 
+  "skip": true
   },
   {
   "name": "Miki",
