@@ -1,0 +1,182 @@
+[
+  {
+  "name": "d2CG",
+  "allyCode": "859853174",
+  "tagIdOnDrop": "467728099853860871",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_de: "
+  },
+  {
+  "name": "Schniggi",
+  "allyCode": "652346565",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":man: Friend ",
+  "skip": true
+  },
+  {
+  "name": "Rossi Schniggi",
+  "allyCode": "267287257",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":man: Friend ",
+  "skip": true
+  },
+  {
+  "name": "Sledge",
+  "allyCode": "838287163",
+  "tagIdOnDrop": "248221290521952258",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_de: "
+  },
+  {
+  "name": "Mal Adjusted",
+  "allyCode": "673441235",
+  "tagIdOnDrop": "482157326036369408",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ca: "
+  },
+  {
+  "name": "Syn",
+  "allyCode": "171686785",
+  "tagIdOnDrop": "214294456516608001",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ca: "
+  },
+  {
+  "name": "Remysterio",
+  "allyCode": "365864888",
+  "tagIdOnDrop": "404395820213993484",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_fr: "
+  },
+  {
+  "name": "Exar Kun",
+  "allyCode": "521973498",
+  "tagIdOnDrop": "546141181570973706",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_fr: "
+  },
+  {
+  "name": "Scob",
+  "allyCode": "426113143",
+  "tagIdOnDrop": "526770376282341386",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ru: "
+  },
+  {
+  "name": "АБТ Unikue",
+  "allyCode": "645796743",
+  "tagIdOnDrop": "568636362639802378",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_ru: "
+  },
+  {
+  "name": "Miki",
+  "allyCode": "163193731",
+  "tagIdOnDrop": "460077862951714827",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_rs: "
+  },
+  {
+  "name": "Georgios",
+  "allyCode": "133669412",
+  "tagIdOnDrop": "404709151218860035",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_gr: "
+  },
+  {
+  "name": "Relix",
+  "allyCode": "624568193",
+  "tagIdOnDrop": "401389833723052034",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "BlackBart",
+  "allyCode": "971433313",
+  "tagIdOnDrop": "545805408284049419",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "Stripe",
+  "allyCode": "996367986",
+  "tagIdOnDrop": "516357246930780172",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "СССРvsEMPIRE",
+  "allyCode": "164675648",
+  "tagIdOnDrop": "300666927456714753",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "Savage Oprah",
+  "allyCode": "789126851",
+  "tagIdOnDrop": "446066727361445900",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "DarkLordofSagnasty",
+  "allyCode": "515377648",
+  "tagIdOnDrop": "443173767896891412",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_us: "
+  },
+  {
+  "name": "TheRealNoLie",
+  "allyCode": "346753534",
+  "tagIdOnDrop": "675402875777581078",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_gb: "
+  },
+  {
+  "name": "刑事コロンボ",
+  "allyCode": "674376816",
+  "tagIdOnDrop": "432416511110545418",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_jp: "
+  },
+  {
+  "name": "Lee Texs",
+  "allyCode": "985426271",
+  "tagIdOnDrop": "798195889926963210",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_br: "
+  },
+  {
+  "name": "Felipe Massari",
+  "allyCode": "768967572",
+  "tagIdOnDrop": "260068768577880068",
+  "tagIdOnClimb": "",
+  "userIcon": ":flag_br: ",
+  "skip": true
+  },
+  {
+  "name": "Makor",
+  "allyCode": "875711567",
+  "tagIdOnDrop": "599829652533411842",
+  "tagIdOnClimb": "",
+  "skip": true
+  },
+  {
+  "name": "Hunta",
+  "allyCode": "756443242",
+  "tagIdOnDrop": "414535622825476096",
+  "userIcon": ":flag_ua: ",
+  "tagIdOnClimb": "",
+  "skip": true
+  },
+  {
+  "name": "Мария",
+  "allyCode": "445523751",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb": "",
+  "userIcon": "<:enemy:804828293256839178> ",
+  "skip": true
+  }
+]
