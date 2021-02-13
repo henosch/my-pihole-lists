@@ -146,7 +146,8 @@
   "allyCode": "985426271",
   "tagIdOnDrop": "798195889926963210",
   "tagIdOnClimb": "",
-  "userIcon": ":flag_br: "
+  "userIcon": ":flag_br: ", 
+  "skip": true
   },
   {
   "name": "Felipe Massari",
