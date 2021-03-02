@@ -160,6 +160,14 @@
   "userIcon": ":flag_jp: "
   },
   {
+  "comment": "Erqe",
+  "name": "<@!635216283952087090>",
+  "allyCode": "556237432",
+  "tagIdOnDrop": "635216283952087090",
+  "tagIdOnClimb" : "",
+  "userIcon": ":flag_no: "
+  },
+  {
   "comment": "Lee Texs",
   "name": "<@!798195889926963210>",
   "allyCode": "985426271",
@@ -184,14 +192,6 @@
   "tagIdOnDrop": "599829652533411842",
   "tagIdOnClimb": "",
   "skip": true
-  },
-  {
-  "comment": "Erqe",
-  "name": "<@!635216283952087090>",
-  "allyCode": "556237432",
-  "tagIdOnDrop": "635216283952087090",
-  "tagIdOnClimb" : "",
-  "userIcon": ":flag_no: "
   },
   {
   "comment": "Hunta",
