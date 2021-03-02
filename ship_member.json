@@ -24,7 +24,8 @@
   "skip": true
   },
   {
-  "name": "Sledge",
+  "comment": "Sledge", 
+  "name": "<@!248221290521952258>",
   "allyCode": "838287163",
   "tagIdOnDrop": "248221290521952258",
   "tagIdOnClimb": "",
