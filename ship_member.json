@@ -40,112 +40,128 @@
   "userIcon": ":flag_ca: "
   },
   {
-  "name": "Syn",
+  "comment": "Syn",
+  "name": "<@!214294456516608001>",
   "allyCode": "171686785",
   "tagIdOnDrop": "214294456516608001",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ca: "
   },
   {
-  "name": "Remysterio",
+  "comment": "Remysterio",
+  "name": "<@!404395820213993484>",
   "allyCode": "365864888",
   "tagIdOnDrop": "404395820213993484",
   "tagIdOnClimb": "",
   "userIcon": ":flag_fr: "
   },
   {
-  "name": "Exar Kun",
+  "comment": "Exar Kun",
+  "name": "<@!546141181570973706>",
   "allyCode": "521973498",
   "tagIdOnDrop": "546141181570973706",
   "tagIdOnClimb": "",
   "userIcon": ":flag_fr: "
   },
   {
-  "name": "Scob",
+  "comment": "Scob",
+  "name": "<@!526770376282341386>",
   "allyCode": "426113143",
   "tagIdOnDrop": "526770376282341386",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ru: "
   },
   {
-  "name": "АБТ Unikue",
+  "comment": "АБТ Unikue",
+  "name": "<@!568636362639802378>",
   "allyCode": "645796743",
   "tagIdOnDrop": "568636362639802378",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ru: "
   },
   {
-  "name": "Miki",
+  "comment": "Miki",
+  "name": "<@!460077862951714827>",
   "allyCode": "163193731",
   "tagIdOnDrop": "460077862951714827",
   "tagIdOnClimb": "",
   "userIcon": ":flag_rs: "
   },
   {
-  "name": "Georgios",
+  "comment": "Georgios",
+  "name": "<@!404709151218860035>",
   "allyCode": "133669412",
   "tagIdOnDrop": "404709151218860035",
   "tagIdOnClimb": "",
   "userIcon": ":flag_gr: "
   },
   {
-  "name": "Relix",
+  "comment": "Relix",
+  "name": "<@!401389833723052034>",
   "allyCode": "624568193",
   "tagIdOnDrop": "401389833723052034",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "BlackBart",
+  "comment": "BlackBart",
+  "name": "<@!545805408284049419>",
   "allyCode": "971433313",
   "tagIdOnDrop": "545805408284049419",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "Stripe",
+  "comment": "Stripe",
+  "name": "<@!516357246930780172>",
   "allyCode": "996367986",
   "tagIdOnDrop": "516357246930780172",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "СССРvsEMPIRE",
+  "comment": "СССРvsEMPIRE",
+  "name": "<@!300666927456714753>",
   "allyCode": "164675648",
   "tagIdOnDrop": "300666927456714753",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "Savage Oprah",
+  "comment": "Savage Oprah",
+  "name": "<@!446066727361445900>",
   "allyCode": "789126851",
   "tagIdOnDrop": "446066727361445900",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "DarkLordofSagnasty",
+  "comment": "DarkLordofSagnasty",
+  "name": "<@!443173767896891412>",
   "allyCode": "515377648",
   "tagIdOnDrop": "443173767896891412",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
   {
-  "name": "TheRealNoLie",
+  "comment": "TheRealNoLie",
+  "name": "<@!675402875777581078>",
   "allyCode": "346753534",
   "tagIdOnDrop": "675402875777581078",
   "tagIdOnClimb": "",
   "userIcon": ":flag_gb: "
   },
   {
-  "name": "刑事コロンボ",
+  "comment": "刑事コロンボ",
+  "name": "<@!432416511110545418>",
   "allyCode": "674376816",
   "tagIdOnDrop": "432416511110545418",
   "tagIdOnClimb": "",
   "userIcon": ":flag_jp: "
   },
   {
-  "name": "Lee Texs",
+  "comment": "Lee Texs",
+  "name": "<@!798195889926963210>",
   "allyCode": "985426271",
   "tagIdOnDrop": "798195889926963210",
   "tagIdOnClimb": "",
@@ -153,7 +169,8 @@
   "skip": true
   },
   {
-  "name": "Felipe Massari",
+  "comment": "Felipe Massari",
+  "name": "<@!260068768577880068>",
   "allyCode": "768967572",
   "tagIdOnDrop": "260068768577880068",
   "tagIdOnClimb": "",
@@ -161,21 +178,24 @@
   "skip": true
   },
   {
-  "name": "Makor",
+  "comment": "Makor",
+  "name": "<@!599829652533411842>",
   "allyCode": "875711567",
   "tagIdOnDrop": "599829652533411842",
   "tagIdOnClimb": "",
   "skip": true
   },
   {
-  "name": "Erqe",
+  "comment": "Erqe",
+  "name": "<@!635216283952087090>",
   "allyCode": "556237432",
   "tagIdOnDrop": "635216283952087090",
   "tagIdOnClimb" : "",
   "userIcon": ":flag_no: "
   },
   {
-  "name": "Hunta",
+  "comment": "Hunta",
+  "name": "<@!414535622825476096>",
   "allyCode": "756443242",
   "tagIdOnDrop": "414535622825476096",
   "userIcon": ":flag_ua: ",
@@ -183,7 +203,8 @@
   "skip": true
   },
   {
-  "name": "Мария",
+  "comment": "Мария",
+  "name": "",
   "allyCode": "445523751",
   "tagIdOnDrop": "",
   "tagIdOnClimb": "",
