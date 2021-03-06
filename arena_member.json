@@ -1,12 +1,14 @@
 [
   {
-  "name": "d2CG",
+  "comment": "Necromonger", 
+  "name": "<@!467728099853860871>",
   "allyCode": "859853174",
-  "tagIdOnDrop": "467728099853860871",
+  "tagIdOnClimb": "",
   "userIcon": ":flag_de: "
   },
   {
-  "name": "Rossi Schniggi",
+  "comment": "Rossi Schniggi",
+  "name:":  "", 
   "allyCode": "267287257",
   "tagIdOnDrop": "",
   "userIcon": ":man: "
