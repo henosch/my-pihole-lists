@@ -3,20 +3,20 @@
   "comment": "Necromonger", 
   "name": "<@!467728099853860871>",
   "allyCode": "859853174",
-  "comment": "467728099853860871",
   "tagIdOnClimb": "",
   "userIcon": ":flag_de: "
   },
   {
-  "name": "Schniggi",
+  "comment": "Schniggi", 
+   "name": "",
   "allyCode": "652346565",
-  "comment": "",
   "tagIdOnClimb": "",
   "userIcon": ":man: Friend ",
   "skip": true
   },
   {
-  "name": "Rossi Schniggi",
+  "comment": "Rossi Schniggi",
+   "name": "",
   "allyCode": "267287257",
   "comment": "",
   "tagIdOnClimb": "",
@@ -27,7 +27,6 @@
   "comment": "Sledge", 
   "name": "<@!248221290521952258>",
   "allyCode": "838287163",
-  "comment": "248221290521952258",
   "tagIdOnClimb": "",
   "userIcon": ":flag_de: "
   },
@@ -35,7 +34,6 @@
   "comment": "Mal Adjusted",
   "name": "<@!482157326036369408>",
   "allyCode": "673441235",
-  "comment": "482157326036369408",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ca: "
   },
@@ -43,7 +41,6 @@
   "comment": "Syn",
   "name": "<@!214294456516608001>",
   "allyCode": "171686785",
-  "comment": "214294456516608001",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ca: "
   },
@@ -51,7 +48,6 @@
   "comment": "Remysterio",
   "name": "<@!404395820213993484>",
   "allyCode": "365864888",
-  "comment": "404395820213993484",
   "tagIdOnClimb": "",
   "userIcon": ":flag_fr: "
   },
@@ -59,7 +55,6 @@
   "comment": "Exar Kun",
   "name": "<@!546141181570973706>",
   "allyCode": "521973498",
-  "comment": "546141181570973706",
   "tagIdOnClimb": "",
   "userIcon": ":flag_fr: "
   },
@@ -67,7 +62,6 @@
   "comment": "Scob",
   "name": "<@!526770376282341386>",
   "allyCode": "426113143",
-  "comment": "526770376282341386",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ru: "
   },
@@ -75,7 +69,6 @@
   "comment": "АБТ Unikue",
   "name": "<@!568636362639802378>",
   "allyCode": "645796743",
-  "comment": "568636362639802378",
   "tagIdOnClimb": "",
   "userIcon": ":flag_ru: "
   },
@@ -83,7 +76,6 @@
   "comment": "Miki",
   "name": "<@!460077862951714827>",
   "allyCode": "163193731",
-  "comment": "460077862951714827",
   "tagIdOnClimb": "",
   "userIcon": ":flag_rs: "
   },
@@ -91,7 +83,6 @@
   "comment": "Georgios",
   "name": "<@!404709151218860035>",
   "allyCode": "133669412",
-  "comment": "404709151218860035",
   "tagIdOnClimb": "",
   "userIcon": ":flag_gr: "
   },
@@ -99,7 +90,6 @@
   "comment": "Relix",
   "name": "<@!401389833723052034>",
   "allyCode": "624568193",
-  "comment": "401389833723052034",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
@@ -107,7 +97,6 @@
   "comment": "BlackBart",
   "name": "<@!545805408284049419>",
   "allyCode": "971433313",
-  "comment": "545805408284049419",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
@@ -115,7 +104,6 @@
   "comment": "Stripe",
   "name": "<@!516357246930780172>",
   "allyCode": "996367986",
-  "comment": "516357246930780172",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
@@ -123,7 +111,6 @@
   "comment": "СССРvsEMPIRE",
   "name": "<@!300666927456714753>",
   "allyCode": "164675648",
-  "comment": "300666927456714753",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
@@ -131,7 +118,6 @@
   "comment": "Savage Oprah",
   "name": "<@!446066727361445900>",
   "allyCode": "789126851",
-  "comment": "446066727361445900",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
@@ -139,7 +125,6 @@
   "comment": "DarkLordofSagnasty",
   "name": "<@!443173767896891412>",
   "allyCode": "515377648",
-  "comment": "443173767896891412",
   "tagIdOnClimb": "",
   "userIcon": ":flag_us: "
   },
